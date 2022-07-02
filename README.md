@@ -15,12 +15,12 @@ When the score is 21 points, highlight the score in red.
 
 The files in the 52card folder are organized based on filename as shown here ("1.png" is the Ace of Spades, "13.png" is the King of Spades,  "14.png" is the Ace of Hearts, etc). 
 
-![](images\fileindices.png)
+![](/images/fileindices.png)
 
 You will need to devise an algorithm to encode the point values of the cards based on the current file index. How you do this is up to you, but you may not rename the files!
 
 Sample Output:
 
-![](images\b1.JPG)
-![](images\b2.JPG)
-![](images\b3.JPG)
+![](/images/b1.JPG)
+![](/images/b2.JPG)
+![](/images/b3.JPG)
